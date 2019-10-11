@@ -1,14 +1,15 @@
 body {
     font: 20px Arial, sans-serif;
+    background-color: black;
 }
 
 .navbar {
-    background-color: #81F7D8;
+    background-color: rgb(65, 92, 85);
 }
 
 .quem-somos {
     background-color: #8181F7;
-    color: white;
+    color: rgb(131, 14, 68);
 }
 
 .margin {
@@ -16,11 +17,16 @@ body {
     padding-top: 10px;
 }
 
-.maquinas {
-    background-color: #58FAF4;
+#maquinas {
+    background-color: rgb(36, 128, 124);
+}
+
+#servicos {
+    background-color: blueviolet;
 }
 
 .bg-footer {
-    background-color: black;
-    color: white;
+    background-color: rgb(94, 14, 14);
+    color: rgb(189, 59, 130);
+    text-align: right;
 }
